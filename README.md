@@ -15,11 +15,11 @@ This project is a machine learning-based web application that predicts the likel
    git clone https://github.com/piyushnaula/Diabetes_Prediction.git
    cd Diabetes_Prediction
 
-2. Create a Virtual Environment:
+3. Create a Virtual Environment:
 
 python3 -m venv env
 source env/bin/activate  # For Linux/macOS
-# or
+or
 env\Scripts\activate  # For Windows
 
 
