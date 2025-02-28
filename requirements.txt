@@ -1,0 +1,1 @@
+pickle, flask, pandas, numpy, matplotlib, seaborn, sklearn
